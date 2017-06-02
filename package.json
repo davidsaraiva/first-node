@@ -1,0 +1,15 @@
+{
+  "name": "FirstNode",
+  "version": "1.0.0",
+  "description": "My first node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28"
+  }
+}
